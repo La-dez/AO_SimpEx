@@ -1,0 +1,9 @@
+D:\Работа\Программы (мои разработки)\Спектрометры\AO_SimpEx_v1.33\bin\Debug\AO_SimpleExample.exe.config
+D:\Работа\Программы (мои разработки)\Спектрометры\AOD and AOF\AO_SimpEx_v1.33\bin\Debug\AO_SimpleExample.exe.config
+D:\Работа\Программы (мои разработки)\Спектрометры\AOD and AOF\AO_SimpEx_v1.33\bin\Debug\AO_SimpleExample.exe
+D:\Работа\Программы (мои разработки)\Спектрометры\AOD and AOF\AO_SimpEx_v1.33\bin\Debug\AO_SimpleExample.pdb
+D:\Работа\Программы (мои разработки)\Спектрометры\AOD and AOF\AO_SimpEx_v1.33\bin\Debug\AO_Lib.dll
+D:\Работа\Программы (мои разработки)\Спектрометры\AOD and AOF\AO_SimpEx_v1.33\bin\Debug\AO_Lib.pdb
+D:\Работа\Программы (мои разработки)\Спектрометры\AOD and AOF\AO_SimpEx_v1.33\obj\Debug\AO_SimpleExample.csprojResolveAssemblyReference.cache
+D:\Работа\Программы (мои разработки)\Спектрометры\AOD and AOF\AO_SimpEx_v1.33\obj\Debug\AO_SimpleExample.exe
+D:\Работа\Программы (мои разработки)\Спектрометры\AOD and AOF\AO_SimpEx_v1.33\obj\Debug\AO_SimpleExample.pdb

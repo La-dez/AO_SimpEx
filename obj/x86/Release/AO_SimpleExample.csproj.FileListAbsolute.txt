@@ -1,0 +1,39 @@
+E:\Работа Саша\АО\AO_SimpleExample\AO_SimpleExample\bin\x86\Release\AO_SimpleExample.exe.config
+E:\Работа Саша\АО\AO_SimpleExample\AO_SimpleExample\bin\x86\Release\AO_SimpleExample.exe
+E:\Работа Саша\АО\AO_SimpleExample\AO_SimpleExample\bin\x86\Release\AO_SimpleExample.pdb
+E:\Работа Саша\АО\AO_SimpleExample\AO_SimpleExample\obj\x86\Release\AO_SimpleExample.csprojAssemblyReference.cache
+E:\Работа Саша\АО\AO_SimpleExample\AO_SimpleExample\obj\x86\Release\AO_SimpleExample.csproj.CoreCompileInputs.cache
+E:\Работа Саша\АО\AO_SimpleExample\AO_SimpleExample\obj\x86\Release\AO_SimpleExample.exe
+E:\Работа Саша\АО\AO_SimpleExample\AO_SimpleExample\obj\x86\Release\AO_SimpleExample.pdb
+E:\Работа Саша\АО\AO_SimpleExample\AO_SimpleExample\obj\x86\Release\AO_SimpleExample.csproj.CopyComplete
+E:\Работа Саша\АО\AO_SimpleExample\AO_SimpleExample\bin\x86\Release\AO_Lib.pdb
+C:\Users\GNM\Desktop\AO_Cont_and_Lib\AOF_Controller+AO_Lib\AO_SimpleExample\bin\x86\Release\AO_SimpleExample.exe.config
+C:\Users\GNM\Desktop\AO_Cont_and_Lib\AOF_Controller+AO_Lib\AO_SimpleExample\bin\x86\Release\AO_SimpleExample.exe
+C:\Users\GNM\Desktop\AO_Cont_and_Lib\AOF_Controller+AO_Lib\AO_SimpleExample\bin\x86\Release\AO_SimpleExample.pdb
+C:\Users\GNM\Desktop\AO_Cont_and_Lib\AOF_Controller+AO_Lib\AO_SimpleExample\bin\x86\Release\AO_Lib.dll
+C:\Users\GNM\Desktop\AO_Cont_and_Lib\AOF_Controller+AO_Lib\AO_SimpleExample\bin\x86\Release\AO_Lib.pdb
+C:\Users\GNM\Desktop\AO_Cont_and_Lib\AOF_Controller+AO_Lib\AO_SimpleExample\obj\x86\Release\AO_SimpleExample.csprojAssemblyReference.cache
+C:\Users\GNM\Desktop\AO_Cont_and_Lib\AOF_Controller+AO_Lib\AO_SimpleExample\obj\x86\Release\AO_SimpleExample.csproj.CoreCompileInputs.cache
+C:\Users\GNM\Desktop\AO_Cont_and_Lib\AOF_Controller+AO_Lib\AO_SimpleExample\obj\x86\Release\AO_SimpleExample.csproj.CopyComplete
+C:\Users\GNM\Desktop\AO_Cont_and_Lib\AOF_Controller+AO_Lib\AO_SimpleExample\obj\x86\Release\AO_SimpleExample.exe
+C:\Users\GNM\Desktop\AO_Cont_and_Lib\AOF_Controller+AO_Lib\AO_SimpleExample\obj\x86\Release\AO_SimpleExample.pdb
+E:\Работа Саша\АО\AO_SimpleExample\bin\x86\Release\AO_SimpleExample.exe.config
+E:\Работа Саша\АО\AO_SimpleExample\bin\x86\Release\AO_SimpleExample.exe
+E:\Работа Саша\АО\AO_SimpleExample\bin\x86\Release\AO_SimpleExample.pdb
+E:\Работа Саша\АО\AO_SimpleExample\bin\x86\Release\AO_Lib.dll
+E:\Работа Саша\АО\AO_SimpleExample\bin\x86\Release\AO_Lib.pdb
+E:\Работа Саша\АО\AO_SimpleExample\obj\x86\Release\AO_SimpleExample.csprojAssemblyReference.cache
+E:\Работа Саша\АО\AO_SimpleExample\obj\x86\Release\AO_SimpleExample.csproj.CoreCompileInputs.cache
+E:\Работа Саша\АО\AO_SimpleExample\obj\x86\Release\AO_SimpleExample.csproj.CopyComplete
+E:\Работа Саша\АО\AO_SimpleExample\obj\x86\Release\AO_SimpleExample.exe
+E:\Работа Саша\АО\AO_SimpleExample\obj\x86\Release\AO_SimpleExample.pdb
+D:\Работа\Программы (мои разработки)\Спектрометры\AOD and AOF\AO_SimpEx_v1.33\bin\x86\Release\AO_SimpleExample.exe.config
+D:\Работа\Программы (мои разработки)\Спектрометры\AOD and AOF\AO_SimpEx_v1.33\obj\x86\Release\AO_SimpleExample.exe
+D:\Работа\Программы (мои разработки)\Спектрометры\AOD and AOF\AO_SimpEx_v1.33\obj\x86\Release\AO_SimpleExample.pdb
+D:\Работа\Программы (мои разработки)\Спектрометры\AOD and AOF\AO_SimpEx_v1.33\bin\x86\Release\AO_SimpleExample.exe
+D:\Работа\Программы (мои разработки)\Спектрометры\AOD and AOF\AO_SimpEx_v1.33\bin\x86\Release\AO_SimpleExample.pdb
+D:\Работа\Программы (мои разработки)\Спектрометры\AOD and AOF\AO_SimpEx_v1.33\bin\x86\Release\AO_Lib.dll
+D:\Работа\Программы (мои разработки)\Спектрометры\AOD and AOF\AO_SimpEx_v1.33\bin\x86\Release\AO_Lib.pdb
+D:\Работа\Программы (мои разработки)\Спектрометры\AOD and AOF\AO_SimpEx_v1.33\obj\x86\Release\AO_SimpleExample.csprojAssemblyReference.cache
+D:\Работа\Программы (мои разработки)\Спектрометры\AOD and AOF\AO_SimpEx_v1.33\obj\x86\Release\AO_SimpleExample.csproj.CoreCompileInputs.cache
+D:\Работа\Программы (мои разработки)\Спектрометры\AOD and AOF\AO_SimpEx_v1.33\obj\x86\Release\AO_SimpleExample.csproj.CopyComplete
